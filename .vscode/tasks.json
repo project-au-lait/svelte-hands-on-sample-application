@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "start-frontend",
+      "type": "shell",
+      "command": "pnpm dev",
+      "problemMatcher": []
+    },
+    {
+      "label": "start-json-server",
+      "type": "shell",
+      "command": "pnpm json-server db.json",
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "クラシックコーヒーマグ",
+      "price": 1200,
+      "description": "耐熱性のあるクラシックなデザインのコーヒーマグ。食洗機対応。",
+      "imageUrl": "/images/product-1.png"
+    },
+    {
+      "id": "2",
+      "name": "エコトートバッグ",
+      "price": 800,
+      "description": "再生素材で作られた軽量で丈夫なトートバッグ。買い物や通勤に便利。",
+      "imageUrl": "/images/product-2.png"
+    },
+    {
+      "id": "3",
+      "name": "Bluetoothワイヤレスイヤホン",
+      "price": 4980,
+      "description": "高音質で長時間バッテリーのワイヤレスイヤホン。通話・音楽どちらも快適。",
+      "imageUrl": "/images/product-3.png"
+    },
+    {
+      "id": "4",
+      "name": "シンプルノート（A5）",
+      "price": 350,
+      "description": "表紙がシンプルで書きやすい無地ノート。学生・ビジネス向け。",
+      "imageUrl": "/images/product-4.png"
+    },
+    {
+      "id": "5",
+      "name": "USB-C 急速充電ケーブル（1m）",
+      "price": 980,
+      "description": "USB-C対応のデバイス向け急速充電ケーブル。1mの長さで取り回しやすい。",
+      "imageUrl": "/images/product-5.png"
+    }
+  ],
+  "carts": []
+}
