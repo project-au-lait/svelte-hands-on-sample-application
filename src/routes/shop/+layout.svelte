@@ -1,6 +1,5 @@
 <script lang="ts">
   import MessagePanel from '$lib/arch/MessagePanel.svelte';
-  import { messageStore } from '$lib/arch/MessageStore';
   import '@picocss/pico';
 
   let { children } = $props();
